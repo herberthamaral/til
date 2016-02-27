@@ -1,7 +1,7 @@
 regexp_replace with flags
 =========================
 
-25/02/2016
+2016-02-26
 
 In PostgreSQL, `regexp_replace` usually takes three arguments: text, pattern
 and replacement. But like JS, it is necessary to specify a global flag to
